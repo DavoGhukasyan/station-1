@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: blueviolet;
+}
+.but{
+    display: flex;
+}
+div{
+    display: flex;
+    flex-direction: column;
+}
+.btn{
+    width: 100px;
+    height: 45px;
+}
+#sim{
+    width: 45px;
+    height: 45px;
+}
